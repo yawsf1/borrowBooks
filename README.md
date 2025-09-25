@@ -24,7 +24,7 @@
 3.Run the Main.java file.
 4.Follow the console prompts to enter your info and select books.
 Dependencies
-  -Java 8 or higher
-  -java.util.HashMap
-  -java.util.Scanner
-  -java.time.LocalDate
+-Java 8 or higher
+-java.util.HashMap
+-java.util.Scanner
+-java.time.LocalDate
